@@ -8,7 +8,7 @@ For each wrong guess the user makes, they receive extra hints, but at the cost o
 
 
 # 2. Rock Paper Scissors Game
-### This project imulates the universally popular game with functions and conditional statements.
+### This project simulates the universally popular game with functions and conditional statements.
 This project uses the standard library’s random, os, and re modules.
 ### The idea is to ask the user to make the first move by passing in a character to represent rock, paper, or scissors.
 After evaluating the input string, the conditional logic checks for a winner.
